@@ -13,6 +13,7 @@ And make it executable,
 sudo chmod 755 /usr/local/bin/check-my-net
 ```  
 
+
 ### Usage :
 
 Open terminal & run,
@@ -21,8 +22,14 @@ check-my-net
 ```  
 And **check-my-net** will test your internet connectivity status and if internet connectivity is down it will display a diagnostic message that hopefully will be good enough to guide you towards solving the problem.  
 
-### License :
 
+### Support :
+If you like **check-my-net**, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via Buy Me a Coffee or Liberapay,  
+- <a href="https://www.buymeacoffee.com/hakerdefo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="31" width="109"></a>  
+- <noscript><a href="https://liberapay.com/hakerdefo/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
+
+
+### License :
 [![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)  
 This work (<span property="dct:title">check-my-net</span>, by [<span property="dct:title">hakerdefo</span>](https://github.com/hakerdefo/check-my-net)), identified by [<span property="dct:title">hakerdefo</span>](https://hakerdefo.github.io), is free of known copyright restrictions.  
 
