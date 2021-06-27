@@ -4,7 +4,7 @@
 
 ### Installation :
 
-**check-my-net** doesn't have any external dependencies and it will work on any GNU/Linux system running on Linux kernel 2.2 or newer. This pretty much means everywhere. Though not tested it should work on BSDs without any problem. Installation is very simple. Download **[check-my-net-main]** zip, extract its contents and copy the file **check-my-net** to **/usr/local/bin/** directory,
+**check-my-net** doesn't have any external dependencies and it should work out of box on most modern GNU/Linux systems running on Linux kernel 2.2 or newer. This pretty much means everywhere. Installation is very simple. Download **[check-my-net-main]** zip, extract its contents and copy the file **check-my-net** to **/usr/local/bin/** directory,
 ```sh
 sudo cp check-my-net /usr/local/bin/
 ```
