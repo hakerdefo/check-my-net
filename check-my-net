@@ -1,7 +1,13 @@
 #!/usr/bin/env bash
 
 ghome=google.com
+# DNS is limited to 3 entries. The first entry is always 127.0.0.1, so try to get third entry. If its blank, get second entry
 gdns=$(grep 'nameserver' /etc/resolv.conf | awk '{print $2}' | cut -d$'\n' -f3)
+if [ -z "$dns" ]
+then
+    gdns=$(grep 'nameserver' /etc/resolv.conf | awk '{print $2}' | cut -d$'\n' -f2)
+fi
+
 #    look for nameserver in resolv.conf | strip away front text | get the third item in the list
 ginterface=$(ip route | awk '/default/ {print $5}')
 gateway=$(ip route | awk '/default/ {print $3}')
