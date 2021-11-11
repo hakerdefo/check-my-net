@@ -24,9 +24,13 @@ And **check-my-net** will test your internet connectivity status and if internet
 
 
 ### Support :
-If you like **check-my-net**, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via Buy Me a Coffee or Liberapay,  
-- <a href="https://www.buymeacoffee.com/hakerdefo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="31" width="109"></a>  
-- <noscript><a href="https://liberapay.com/hakerdefo/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
+
+If you like **check-my-net**, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via PayPal, Buy Me a Coffee or Liberapay:  
+
+[![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://paypal.me/hakerdefo)  
+[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/hakerdefo)  
+[![Support via Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/hakerdefo/donate)  
+
 
 
 ### License :
